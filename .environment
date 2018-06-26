@@ -1,0 +1,9 @@
+[ Project settings ]
+; Path to project directory
+DIR_PROJECT = C:/projects/BU.Dev.7/
+
+; Path to git executable
+; Windows C:\Program Files\Git\bin\git.exe
+PATH_GIT = C:\Program Files\Git\bin\git.exe
+; Linux 
+;PATH_GIT = /usr/bin/git
